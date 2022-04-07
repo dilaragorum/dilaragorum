@@ -1,12 +1,18 @@
-### Hi there 👋
+### Hi there , I'm [Dilara Görüm](https://www.linkedin.com/in/dilara-g%C3%B6r%C3%BCm-680209141/)👋
+
+- 🔭 I’m currently working on Modanisa as Intern.
+- 🌱 I’m currently learning Go with TDD.
+
+### My Blog Posts
+- [GoLang Beginner Unit Testing Tutorial](https://medium.com/@dilaragorum/golang-beginner-unit-testing-tutorial-98d700d40679)
 
 <!--
 **dilaragorum/dilaragorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+ ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
