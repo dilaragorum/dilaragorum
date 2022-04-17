@@ -1,10 +1,11 @@
 ### Hi there , I'm [Dilara Görüm](https://www.linkedin.com/in/dilara-g%C3%B6r%C3%BCm-680209141/)👋
 
 - 🔭 I’m currently working on Modanisa as Intern.
-- 🌱 I’m currently learning Go with TDD.
+- 🌱 I’m currently learning Go.
 
-### My Blog Posts
-- [GoLang Beginner Unit Testing Tutorial](https://medium.com/@dilaragorum/golang-beginner-unit-testing-tutorial-98d700d40679)
+### My Blog Posts (Desc)
+- [Lets build a Movie API with Clean Architecture using Go 🚀](https://medium.com/@dilaragorum/lets-build-a-movie-api-with-clean-architecture-ef1f555b563d)
+- [GoLang Beginner Unit Testing Tutorial 🚀](https://medium.com/@dilaragorum/golang-beginner-unit-testing-tutorial-98d700d40679)
 
 <!--
 **dilaragorum/dilaragorum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
