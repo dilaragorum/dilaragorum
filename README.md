@@ -1,6 +1,6 @@
 ### Hi there , I'm [Dilara Görüm](https://www.linkedin.com/in/dilara-g%C3%B6r%C3%BCm-680209141/)👋
 
-- 🔭 I’m currently working on Modanisa as Intern.
+- 🔭 I’m currently working on WeTravel as Intern.
 - 🌱 I’m currently learning Go.
 
 ### My Blog Posts (Desc)
