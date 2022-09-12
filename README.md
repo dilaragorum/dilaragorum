@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Go.
 
 ### My Blog Posts (Desc)
+- [How to Implement a Library in Golang](https://medium.com/better-programming/how-to-implement-a-shared-library-in-golang-eeaf466de9fd)
 - [Lovely Dress 👗 to Understand API Gateway with Golang](https://medium.com/@dilaragorum/lovely-dress-to-understand-api-gateway-with-golang-660effb560a1)
 - [Build Basic Real-Time Competition App with Go](https://medium.com/@dilaragorum/build-basic-real-time-competition-app-with-go-96c2ca0d35bf)
 - [Lets build a Movie API with Clean Architecture using Go 🚀](https://medium.com/@dilaragorum/lets-build-a-movie-api-with-clean-architecture-ef1f555b563d)
