@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Technical Book List 📚 
+- [x] 📖 [The Pragmatic Programmer From Journeyman to Master by Andrew Hunt, David Thomas](https://www.amazon.com.tr/Pragmatic-Programmer-Andrew-Hunt/dp/020161622X)
+- [x] 📖 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.tr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [ ] 📖 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
