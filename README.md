@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - [x] 📖 [The Pragmatic Programmer From Journeyman to Master by Andrew Hunt, David Thomas](https://www.amazon.com.tr/Pragmatic-Programmer-Andrew-Hunt/dp/020161622X)
 - [x] 📖 [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.tr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [x] 📖 [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
-- [ ] 📖 [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) 
 - [ ] 📖 [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+- [ ] 📖 [Test Driven Development: By Example](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) 
 - [ ] 📖 [Clean Agile: Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868)
-
