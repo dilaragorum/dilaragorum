@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Go.
 
 ### My Blog Posts (Desc)
+- [Monolithic vs. Microservices Architecture: Everything You Need to Know in 2023](https://ninetailed.io/blog/monolithic-vs-microservices/)
 - [Let’s build a basic job survey CLI tool with Go using the Strategy Pattern 👩‍🚀 👩‍🔬 👩‍💻](https://medium.com/@dilaragorum/lets-build-a-basic-job-survey-cli-tool-with-go-using-the-strategy-pattern-17632ea52d2b)
 - [How to Implement a Library in Golang](https://medium.com/better-programming/how-to-implement-a-shared-library-in-golang-eeaf466de9fd)
 - [Lovely Dress 👗 to Understand API Gateway with Golang](https://medium.com/@dilaragorum/lovely-dress-to-understand-api-gateway-with-golang-660effb560a1)
