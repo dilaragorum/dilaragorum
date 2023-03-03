@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Go.
 
 ### My Blog Posts (Desc)
+- [GraphQL vs. REST API: The Ultimate Comparison](https://ninetailed.io/blog/graphql-vs-rest-api/)
+- [Why Is Microservices Orchestration Becoming More Important in Modern Tech Stack](https://ninetailed.io/blog/microservices-orchestration/)
 - [Monolithic vs. Microservices Architecture: Everything You Need to Know in 2023](https://ninetailed.io/blog/monolithic-vs-microservices/)
 - [Let’s build a basic job survey CLI tool with Go using the Strategy Pattern 👩‍🚀 👩‍🔬 👩‍💻](https://medium.com/@dilaragorum/lets-build-a-basic-job-survey-cli-tool-with-go-using-the-strategy-pattern-17632ea52d2b)
 - [How to Implement a Library in Golang](https://medium.com/better-programming/how-to-implement-a-shared-library-in-golang-eeaf466de9fd)
