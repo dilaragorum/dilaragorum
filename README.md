@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Go.
 
 ### My Blog Posts (Desc)
+- [Securing Your Golang Application: Unleashing the Power of Authentication and Authorizati](https://medium.com/@dilaragorum/securing-your-golang-application-unleashing-the-power-of-authentication-and-authorization-94686e2fc683)
 - [SDK vs. API: Everything You Need to Know About SDKs and APIs](https://ninetailed.io/blog/sdk-vs-api/?utm_content=buffer44c52&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 - [GraphQL vs. REST API: The Ultimate Comparison](https://ninetailed.io/blog/graphql-vs-rest-api/)
 - [Why Is Microservices Orchestration Becoming More Important in Modern Tech Stack](https://ninetailed.io/blog/microservices-orchestration/)
