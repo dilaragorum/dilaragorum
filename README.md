@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Go.
 
 ### My Blog Posts (Desc)
+- [Publish-Subscribe Pattern: Everything You Need to Know About This Messaging Pattern](https://ninetailed.io/blog/publish-subscribe-pattern/)
 - [Web Services vs. API: Differences, Similarities, and Everything You Need to Know](https://ninetailed.io/blog/web-services-vs-api/)
 - [API Calls: Everything You Need to Know About It](https://ninetailed.io/blog/api-calls/)
 - [Webhook vs. API: The Relationship Between the Two](https://ninetailed.io/blog/webhook-vs-api/)
