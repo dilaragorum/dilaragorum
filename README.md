@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go.
 
 ### My Blog Posts (Desc)
-- [Serverless Architecture: Everything You Need to Know About Serverless] (https://ninetailed.io/blog/serverless-architecture/)
+- [Serverless Architecture: Everything You Need to Know About Serverless](https://ninetailed.io/blog/serverless-architecture/)
 - [Publish-Subscribe Pattern: Everything You Need to Know About This Messaging Pattern](https://ninetailed.io/blog/publish-subscribe-pattern/)
 - [Web Services vs. API: Differences, Similarities, and Everything You Need to Know](https://ninetailed.io/blog/web-services-vs-api/)
 - [API Calls: Everything You Need to Know About It](https://ninetailed.io/blog/api-calls/)
